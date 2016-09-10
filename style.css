@@ -239,7 +239,7 @@ margin-left: 40px; */
 	height: 40px;	
 color: white;
 	font-weight: bold;
-	background: #57C3E2;
+	background: deepskyblue;
 		/*margin-left: 455px;*/
 margin-top: 22px;
 
@@ -256,7 +256,7 @@ margin-top: 22px;
 	text-align: center;
 }
 .button3:hover{
-	background: #57C3E2;
+	background: grey;
 }
 .email-footer::-webkit-input-placeholder { color: white; } 
 .email-footer:-moz-placeholder { color: white; } 
